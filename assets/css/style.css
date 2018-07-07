@@ -1,0 +1,64 @@
+body {
+    background-image: url(../images/brands.png);
+}
+
+#wrapper {
+    width: 1000px;
+    height: 800px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+    display: block;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 100px;
+    font-stretch: expanded;
+    color: #D52C37;
+    margin-bottom: 20px;
+    
+}
+
+img {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 35px;
+    margin-right: 25px;
+}
+
+li {
+    margin: 10px 0;
+    padding: 10px;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#start {
+    margin: auto;
+    font-size: 35px;
+    margin: 10px 200px;
+    display: block;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+}
+
+#r10 {
+    font-size: 50px;
+    color: #D52C37;
+    margin: 50px;
+}
