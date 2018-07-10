@@ -109,7 +109,7 @@ $(document).ready(function () {
     }
 
     function round10() {
-        $("#questions").html('<span id="r10">'+ 'Your final score is: ' + score + '</span');
+        $("#questions").html('<span id="r10">'+ 'Your final score is: ' + score + '/10 </span');
     }
 
     function timer() {
