@@ -62,3 +62,11 @@ h2 {
     color: #D52C37;
     margin: 50px;
 }
+
+.imageLoad {
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}

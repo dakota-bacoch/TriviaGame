@@ -1,16 +1,16 @@
 $(document).ready(function () {
 
     var logo = [
-        { name: 'java', image: '<img src="assets/images/java.png">' },
-        { name: 'python', image: '<img src="assets/images/python.png">' },
-        { name: 'ruby', image: '<img src="assets/images/ruby.png">' },
-        { name: 'angular', image: '<img src="assets/images/angular.png">' },
-        { name: 'node', image: '<img src="assets/images/node.png">' },
-        { name: 'github', image: '<img src="assets/images/github.png">' },
-        { name: 'jquery', image: '<img src="assets/images/jquery.png">' },
-        { name: 'slack', image: '<img src="assets/images/slack.png">' },
-        { name: 'react', image: '<img src="assets/images/react.png">' },
-        { name: 'mongodb', image: '<img src="assets/images/mongodb.png">' }
+        { name: 'java', image: '<img class="imageLoad" src="assets/images/java.png">' },
+        { name: 'python', image: '<img class="imageLoad" src="assets/images/python.png">' },
+        { name: 'ruby', image: '<img class="imageLoad" src="assets/images/ruby.png">' },
+        { name: 'angular', image: '<img class="imageLoad" src="assets/images/angular.png">' },
+        { name: 'node', image: '<img class="imageLoad" src="assets/images/node.png">' },
+        { name: 'github', image: '<img class="imageLoad" src="assets/images/github.png">' },
+        { name: 'jquery', image: '<img class="imageLoad" src="assets/images/jquery.png">' },
+        { name: 'slack', image: '<img class="imageLoad" src="assets/images/slack.png">' },
+        { name: 'react', image: '<img class="imageLoad" src="assets/images/react.png">' },
+        { name: 'mongodb', image: '<img class="imageLoad" src="assets/images/mongodb.png">' }
     ];
 
     var ranAnswer = ['c', 'c++', 'c#', 'javascript', 'hph', '.net', 'perl', 'delphi', 'swift', 'objective-c', 'matlab', 'groovy', 'visual basic', 'go', 'electron', 'yarn', 'npm', 'scala', 'lua', 'metero', 'ember', 'mithril', 'polymar', 'pixi', 'vue', 'gulp', 'grunt', 'docker', 'jasmine'];
